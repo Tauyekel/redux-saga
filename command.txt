@@ -1,0 +1,2 @@
+npx create-react-app .
+npm i -S redux react-redux redux-saga reactstrap axios bootstrap
